@@ -92,6 +92,7 @@
 * main .homePageBG h2 {
   font-size: 2rem;
   padding: 3.8rem 0rem;
+  font-weight: 500;
 }
 
 * main .homePageBG .cards {
